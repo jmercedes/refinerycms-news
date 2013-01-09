@@ -16,6 +16,11 @@ es:
             create: "Crear noticia"
             item: Noticia
             no_items_yet: 'Aún no hay noticias. Haz click en "Crear noticia" para añadir la primera.'
+      shared:
+        items:
+          read_more: Leer más
+          created_at: 'Creado el %{when}'
+        archives: Archivos            
       items:
         show:
           back_to_index: "Volver al listado de noticias"
